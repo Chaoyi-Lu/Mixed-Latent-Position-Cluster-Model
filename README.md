@@ -1,6 +1,6 @@
 # Mixed-Latent-Position-Cluster-Model
 
-This repository provides all the R code as well as the data for the simulation studies and ral data application of the paper [**Mixed Latent Position Cluster Model**].
+This repository provides all the R code as well as the data for the simulation studies and ral data application of the paper [**Mixed Latent Position Cluster Model**](https://arxiv.org/abs/2601.22380).
 
 This paper develops a novel mixed latent position cluster model especially for directed social networks to characterize not only weighted interactions, clustering, latent space visualizations, but also possibly significant discrepancy of outgoing and incoming interactions between different individuals. 
 The MLPCM extends the mixed-membership idea to latent positions leading to the so-called mixed latent positions, and can also be treated as using a novel approach to incorporate random effects to the LPCM.
